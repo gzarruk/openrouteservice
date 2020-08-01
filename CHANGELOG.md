@@ -34,6 +34,7 @@ Releasing is documented in RELEASE.md
 - include `graph_date` and `osm_date` in the GPX response ([#2055](https://github.com/GIScience/openrouteservice/issues/2055))
 
 ### Changed
+- improved road bike average speed to be faster on cycleways and slower on bad road surface or certain road types such as footways.
 
 ### Deprecated
 
